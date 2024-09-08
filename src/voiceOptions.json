@@ -1,0 +1,39 @@
+{
+    "options": [
+      {
+        "value": {
+          "voiceId": "oq95nbWkAIftDjOydCyu",
+          "provider": "11labs"
+        },
+        "label": "Amir Kfir"
+      },
+      {
+        "value": {
+          "voiceId": "NFoJXbu2DbBdmI1RdVr6",
+          "provider": "11labs"
+        },
+        "label": "Aline Turbin"
+      },
+      {
+        "value": {
+          "voiceId": "oq95nbWkAIftDjOydCyu",
+          "provider": "11labs"
+        },
+        "label": "Test"
+      },
+      {
+        "value": {
+          "voiceId": "zeus",
+          "provider": "deepgram"
+        },
+        "label": "Zeus"
+      },
+      {
+        "value": {
+          "voiceId": "luna",
+          "provider": "deepgram"
+        },
+        "label": "Luna"
+      }
+    ]
+  }
